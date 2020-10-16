@@ -1,0 +1,7 @@
+D:\VS Repositories\repos\Goblin_Army\Goblin_Army\bin\Debug\Goblin_Army.exe.config
+D:\VS Repositories\repos\Goblin_Army\Goblin_Army\bin\Debug\Goblin_Army.exe
+D:\VS Repositories\repos\Goblin_Army\Goblin_Army\bin\Debug\Goblin_Army.pdb
+D:\VS Repositories\repos\Goblin_Army\Goblin_Army\obj\Debug\Goblin_Army.csprojAssemblyReference.cache
+D:\VS Repositories\repos\Goblin_Army\Goblin_Army\obj\Debug\Goblin_Army.csproj.CoreCompileInputs.cache
+D:\VS Repositories\repos\Goblin_Army\Goblin_Army\obj\Debug\Goblin_Army.exe
+D:\VS Repositories\repos\Goblin_Army\Goblin_Army\obj\Debug\Goblin_Army.pdb
