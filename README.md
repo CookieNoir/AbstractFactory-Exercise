@@ -1,1 +1,4 @@
-# AbstractFactory-Exercise
+# Abstract Factory Exercise
+Есть базовое существо Entity.
+Есть классы существ Warrior, Rogue, Mage и Doctor.
+Есть две армии (и, на всякий случай, третья) : армия гномов (Dwarf Army) и гоблинов (Goblin Army), для создания существ которых есть фабрики. Эти фабрики наследуются от интерфейса IArmyFactory, который представляет собой абстрактную фабрику для создания сущностей определенных классов и имеет методы GetWarrior, GetRogue, GetMage, GetDoctor.
